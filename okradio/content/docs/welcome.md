@@ -36,12 +36,11 @@ ul.checklist li:before {
 
 <hr />
 <h4 class="section-head" id="h-basic-template">
-Having heard Sandi's take on this, how would you like to respond to her?</h4>
 
 <div style="width: 100%; text-align: center; display: flex">
 
 <section style="flex: 1">
-  <p>Record a response to Sandi:</p>
+  <p>Record a response:</p>
 
   <iframe width="230" height="325" src="https://clyp.it/recording-widget" frameborder="0" style="border-radius: 4px;"></iframe>
 
