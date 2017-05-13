@@ -15,6 +15,6 @@ title = "Sign In"
 
     <p><button class="button primary width-100">Log in</button></p>
     <p><a href="/password-recovery/" class="small muted">Forgot password?</a></p>
-    <p class="small">If you have any questions about authorization or you're our customer but haven't receive your login credentials, just send us a short email at <b>support@company.com</b> and we'll fix it right away.</p>
+    <p class="small">If you have any questions about authorization or you're our customer but haven't receive your login credentials, just send us a short email at <b>support@wavelengthradio.com</b> and we'll fix it right away.</p>
 
 </form>

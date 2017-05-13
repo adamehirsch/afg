@@ -12,6 +12,6 @@ Paginate = 4
   email = "myemail@myaddress.xxx"
 
 [[menu.main]]
-    name = "Docs"
+    name = "Experiences"
     weight = -100
     url = "/docs/"
