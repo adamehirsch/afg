@@ -1,7 +1,7 @@
 +++
 title = "Initial Match"
 description = "After two users have answered a featured question differently, the system matches them."
-weight = 2
+weight = 4
 draft = false
 toc = false
 bref = "After two users have answered a featured question differently, the system matches them and encourages them to respond"
