@@ -1,5 +1,5 @@
 +++
-title = "Dashboard"
+title = "Your Dashboard"
 description = "When a user comes back to the site, they'll see a page of questions, conversation starters and prompts to contribute their own questions."
 weight = 10
 draft = false
@@ -7,25 +7,62 @@ toc = false
 bref = ""
 +++
 
-<h2>Your Dashboard.</h2>
+<h3>Questions of the Day:</h3>
 
-<h3>Questions of the Day.</h3>
+<style>
+input[type=range]:before {
+  content: 'No Way!';
+  color: #ff3366;
+}
 
-<p>Should recreational marijuana be legalized?</p>
-<input id="slider2" type ="range" min ="100" max="500" step ="0.5" value ="300"/>
-Absolutely ------ Maybe ------ Absolutely not
+input[type=range]:after {
+  content: 'Absolutely!';
+  color: green;
+}
+</style>
 
-<iframe width="230" height="325" src="https://clyp.it/recording-widget" frameborder="0" style="border-radius: 4px;"></iframe>
+<h4 style="background: rgba(169, 77, 131, 0.5); margin-top: 24px; padding: 10px; border-radius: 6px;">
+  Should recreational marijuana be legalized
+</h4>
+<div style="display:flex;">
+  <section style="flex: 2; margin-top: 100px;">
+    <input id="slider2" type ="range" min ="100" max="500" step ="0.5" value ="300"/>
 
-<p>In the wake of FBI Director James Comey's firing, should Congress appoint someone independent to investigate alleged ties between Russia and the Trump administration?</p>
-<input id="slider2" type ="range" min ="100" max="500" step ="0.5" value ="300"/>
-Absolutely ------ Maybe ------ Absolutely not
-<iframe width="230" height="325" src="https://clyp.it/recording-widget" frameborder="0" style="border-radius: 4px;"></iframe>
+  </section>
 
-<p>Are young people better off than previous generations because of the Internet?</p>
-<input id="slider2" type ="range" min ="100" max="500" step ="0.5" value ="300"/>
-Absolutely ------ Maybe ------ Absolutely not
-<iframe width="230" height="325" src="https://clyp.it/recording-widget" frameborder="0" style="border-radius: 4px;"></iframe>
+  <section style="flex: 1; margin-left: 24px;">
+    <iframe width="230" height="325" src="https://clyp.it/recording-widget" frameborder="0" style="border-radius: 4px;"></iframe>
+  </section>
+</div>
+
+
+<h4 style="background: rgba(169, 77, 131, 0.5); margin-top: 24px; padding: 10px; border-radius: 6px;">
+  In the wake of FBI Director James Comey's firing, should Congress appoint someone independent to investigate alleged ties between Russia and the Trump administration?
+</h4>
+<div style="display:flex;">
+  <section style="flex: 2; margin-top: 100px;">
+    <input id="slider2" type ="range" min ="100" max="500" step ="0.5" value ="300"/>
+
+  </section>
+
+  <section style="flex: 1; margin-left: 24px;">
+    <iframe width="230" height="325" src="https://clyp.it/recording-widget" frameborder="0" style="border-radius: 4px;"></iframe>
+  </section>
+</div>
+
+<h4 style="background: rgba(169, 77, 131, 0.5); margin-top: 24px; padding: 10px; border-radius: 6px;">
+  Are young people better off than previous generations because of the Internet?
+</h4>
+<div style="display:flex;">
+  <section style="flex: 2; margin-top: 100px;">
+    <input id="slider2" type ="range" min ="100" max="500" step ="0.5" value ="300"/>
+  </section>
+
+  <section style="flex: 1; margin-left: 24px;">
+    <iframe width="230" height="325" src="https://clyp.it/recording-widget" frameborder="0" style="border-radius: 4px;"></iframe>
+  </section>
+</div>
+
 
 <hr />
 
