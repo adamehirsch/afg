@@ -19,10 +19,32 @@ input[type=range]:after {
   content: 'Absolutely!';
   color: green;
 }
+
+.record {
+    flex: 2;
+    margin-left: 24px;
+    background-color:#ffbc00;
+    border:5px solid #5f6d7a;
+    height:120px;
+    border-radius:50%;
+    max-width:120px;
+    cursor: pointer;
+}
+
+.record-small {
+    flex: 2;
+    margin-left: 24px;
+    background-color:#ffbc00;
+    border:5px solid #5f6d7a;
+    height:60px;
+    border-radius:50%;
+    max-width:60px;
+    cursor: pointer;
+}
 </style>
 
 <h4 style="background: rgba(169, 77, 131, 0.5); margin-top: 24px; padding: 10px; border-radius: 6px;">
-  Should recreational marijuana be legalized
+  Should recreational marijuana be legalized?
 </h4>
 <div style="display:flex;">
   <section style="flex: 2; margin-top: 100px;">
@@ -68,24 +90,63 @@ input[type=range]:after {
 
 <h3>Other responses on questions you've answered</h3>
 
-<iframe width="100%" height="160" src="https://clyp.it/qzagguzm/widget?token=23e7a4d74a912edac0aef7a163abd268" frameborder="0"></iframe> [RESPOND / RECORD BUTTON]
+<div style="display: flex; margin-top: 48px;">
+    <section style="flex: 8">
+      <iframe width="100%" height="160" src="https://clyp.it/qzagguzm/widget?token=23e7a4d74a912edac0aef7a163abd268" frameborder="0"></iframe>
+    </section>
+    <div class="record"></div>
+</div>
 
-<iframe width="100%" height="160" src="https://clyp.it/norao43o/widget?token=775a2f17fa05c2592d1db9905745700d" frameborder="0"></iframe> [RESPOND / RECORD BUTTON]
+<div style="display: flex; margin-top: 48px;">
+    <section style="flex: 8">
+      <iframe width="100%" height="160" src="https://clyp.it/norao43o/widget?token=775a2f17fa05c2592d1db9905745700d" frameborder="0"></iframe>
+    </section>
+    <div class="record"></div>
+</div>
 
+<div style="display: flex; margin-top: 48px;">
+    <section style="flex: 8">
+      <iframe width="100%" height="160" src="https://clyp.it/z002lnal/widget?token=ca4d6eb777ebcf003a58773342d7071b" frameborder="0"></iframe>
+    </section>
+    <div class="record"></div>
+</div>
 
-<iframe width="100%" height="160" src="https://clyp.it/z002lnal/widget?token=ca4d6eb777ebcf003a58773342d7071b" frameborder="0"></iframe> [RESPOND / RECORD BUTTON]
+<div style="display: flex; margin-top: 48px;">
+    <section style="flex: 8">
+      <iframe width="100%" height="160" src="https://clyp.it/m2s1f2dm/widget?token=0cdcd5b614651cef6a6e268a703faa2e" frameborder="0"></iframe>
+    </section>
+    <div class="record"></div>
+</div>
 
-<iframe width="100%" height="160" src="https://clyp.it/m2s1f2dm/widget?token=0cdcd5b614651cef6a6e268a703faa2e" frameborder="0"></iframe> [RESPOND / RECORD BUTTON]
+<div>
+
+</div>
 
 
 <hr />
 
-<h3>Popular Questions you haven't answered yet</h3>
+<h3>Popular Questions you haven't answered yet:</h3>
 
-<ul>
-<li> Should the U.S.A. spend the necessary money to send a crewed mission to Mars? [RESPOND / RECORD BUTTON]</li>
-<li> Would you consider eating less meat if it could be directly shown to reduce damage to the environment? [RESPOND / RECORD BUTTON]</li>
-<li> Should the U.S.A. spend the necessary money to send a crewed mission to Mars? [RESPOND / RECORD BUTTON]</li>
+<div style="display: flex; margin-top: 24px;">
+<h4 style="flex: 8; background: rgba(169, 77, 131, 0.5); padding: 10px; border-radius: 6px;">
+  Should the U.S.A. spend the necessary money to send a crewed mission to Mars?
+</h4>
+<div class="record-small"></div>
+</div>
+
+<div style="display: flex; margin-top: 24px;">
+<h4 style="flex: 8; background: rgba(169, 77, 131, 0.5); padding: 10px; border-radius: 6px;">
+  Would you consider eating less meat if it could be directly shown to reduce damage to the environment?
+</h4>
+<div class="record-small"></div>
+</div>
+
+<div style="display: flex; margin-top: 24px;">
+<h4 style="flex: 8; background: rgba(169, 77, 131, 0.5); padding: 10px; border-radius: 6px;">
+  Should the U.S.A. spend the necessary money to send a crewed mission to Mars?
+</h4>
+<div class="record-small"></div>
+</div>
 
 <hr />
 
