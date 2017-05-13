@@ -1,6 +1,6 @@
 +++
-description = "Kube is a professional  and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog"
-title = "Kube theme for Hugo"
+description = "Wavelength is a site where everyone can share their take and start conversations with others"
+title = "Wavelength: helping people hear each other"
 draft = false
 
 +++
