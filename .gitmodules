@@ -1,3 +1,6 @@
 [submodule "okradio/themes/hugo-universal-theme"]
 	path = okradio/themes/hugo-universal-theme
 	url = https://github.com/devcows/hugo-universal-theme
+[submodule "okradio/themes/kube"]
+	path = okradio/themes/kube
+	url = https://github.com/jeblister/kube.git
