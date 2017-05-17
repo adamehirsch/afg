@@ -1,4 +1,5 @@
-baseURL = "/"
+baseURL = "https://adamehirsch.github.io/afg/"
+canonifyURLs = "true"
 languageCode = "en-us"
 title = "Wavelength"
 theme = "kube"

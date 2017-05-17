@@ -2,88 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wavelength: helping people hear each other on Wavelength</title>
-    <link>/</link>
+    <link>https://adamehirsch.github.io/afg/</link>
     <description>Recent content in Wavelength: helping people hear each other on Wavelength</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 21:56:55 +0100</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adamehirsch.github.io/afg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to Kube</title>
-      <link>/blog/welcome/</link>
+      <link>https://adamehirsch.github.io/afg/blog/welcome/</link>
       <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
       
-      <guid>/blog/welcome/</guid>
+      <guid>https://adamehirsch.github.io/afg/blog/welcome/</guid>
       <description>Welcome to Kube – an open source documentation like theme for Hugo Hi there and welcome to kube - my two theme for the static site generator hugo. kube is open source and can be found on kube. This article is just a demo post and shows you the style of common used elements.
 Bear claw danish chocolate lollipop soufflé jelly. Apple pie chocolate cake jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar cheesecake.</description>
     </item>
     
     <item>
       <title>Onboarding Questions</title>
-      <link>/docs/onboarding/</link>
+      <link>https://adamehirsch.github.io/afg/docs/onboarding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/onboarding/</guid>
+      <guid>https://adamehirsch.github.io/afg/docs/onboarding/</guid>
       <description>.section-head:after { content: &#39;&#39;; } ul.checklist { padding: 20px; background: rgba(143, 188, 143, 0.50); border-radius: 6px; list-style: none;&#34; } ul.checklist li:before { content: &#39;✓&#39;; }  Onboarding questions  I am a _____ (age) _______ (gender) in ___________. And I love _________? What do you love about ______{topic}? If you won $10,000, what&#39;s the first thing you would spend money on? Do you say pop or soda? Manhattan clam chowder or New England clam chowder?</description>
     </item>
     
     <item>
       <title>Conversation Guidelines</title>
-      <link>/docs/listening-guides/</link>
+      <link>https://adamehirsch.github.io/afg/docs/listening-guides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/listening-guides/</guid>
+      <guid>https://adamehirsch.github.io/afg/docs/listening-guides/</guid>
       <description>.section-head:after { content: &#39;&#39;; } ul.checklist { padding: 20px; background: rgba(143, 188, 143, 0.50); border-radius: 6px; list-style: none;&#34; } ul.checklist li:before { content: &#39;✓&#39;; }  A guide to more fully engaged conversations  Wait: Let the other person speak fully before asking questions. Try not to formulate a response before they finish. Assume positive intentions: Assume that the other person has good intentions. Use “I” statements: Use &#34;I&#34; statements to keep the discussion based on your personal experience, rather than pointing fingers.</description>
     </item>
     
     <item>
       <title>Welcome Page</title>
-      <link>/docs/welcome/</link>
+      <link>https://adamehirsch.github.io/afg/docs/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/welcome/</guid>
+      <guid>https://adamehirsch.github.io/afg/docs/welcome/</guid>
       <description>.section-head:after { content: &#39;&#39;; } ul.checklist { padding: 20px; background: rgba(143, 188, 143, 0.50); border-radius: 6px; list-style: none;&#34; } ul.checklist li:before { content: &#39;✓&#39;; }  Questions of the Day   Should recreational marijuana be legalized? [RESPOND / RECORD BUTTON]  Are young people better off than previous generations because of the Internet? [RESPOND / RECORD BUTTON]  Should hospitals be allowed to force employees to get flu shots? [RESPOND / RECORD BUTTON]  Record a response:</description>
     </item>
     
     <item>
       <title>Typography with kube</title>
-      <link>/blog/typography/</link>
+      <link>https://adamehirsch.github.io/afg/blog/typography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/blog/typography/</guid>
+      <guid>https://adamehirsch.github.io/afg/blog/typography/</guid>
       <description>Get Started Typography of Kube based on the 4px horizontal grid, it means that for the headers, paragraphs, quotes and any other texts chosen are a combination of line-height, that fit into the 4px grid and help set the horizontal rhythm of design by default.
   4px grid for typography - the magic of the horizontal rhythm   With this feature, you can quickly and easily make a solid and harmonious-looking website and UI design.</description>
     </item>
     
     <item>
       <title>Prototyping with markdown</title>
-      <link>/blog/prototyping/</link>
+      <link>https://adamehirsch.github.io/afg/blog/prototyping/</link>
       <pubDate>Sun, 02 Apr 2017 22:01:15 +0100</pubDate>
       
-      <guid>/blog/prototyping/</guid>
+      <guid>https://adamehirsch.github.io/afg/blog/prototyping/</guid>
       <description>I have been working on a large set of documentation for a prototype that will eventually make it into a product. One issue with the publishing system at my company is that it makes doing prototypes, or really anything not within the rigidly and narrowly scoped model, difficult to set up. It takes a lot of work just to get to the point where you can begin writing.
 Since time was of the essence and writing is expensive, I decided to do the prototype outside of the publishing system.</description>
     </item>
     
     <item>
       <title>Initial Match</title>
-      <link>/docs/match1/</link>
+      <link>https://adamehirsch.github.io/afg/docs/match1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/match1/</guid>
+      <guid>https://adamehirsch.github.io/afg/docs/match1/</guid>
       <description>.section-head:after { content: &#39;&#39;; } ul.checklist { padding: 20px; background: rgba(143, 188, 143, 0.50); border-radius: 6px; list-style: none;&#34; } ul.checklist li:before { content: &#39;✓&#39;; }  Andrew, you have a match! Sandi agrees with you on a lot of things:
  a hot dog is a sandwich   You both consider yourselves &#34;observant&#34;   You call yourselves &#34;news junkie&#34;  You both call carbonated beverages &#34;soda&#34;  But: You disagree about the following: Are young people today better off because of the internet, or worse?</description>
     </item>
     
     <item>
       <title>Your Dashboard</title>
-      <link>/docs/dashboard/</link>
+      <link>https://adamehirsch.github.io/afg/docs/dashboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/dashboard/</guid>
+      <guid>https://adamehirsch.github.io/afg/docs/dashboard/</guid>
       <description>Questions of the Day:  input[type=range]:before { content: &#39;No Way!&#39;; color: #ff3366; } input[type=range]:after { content: &#39;Absolutely!&#39;; color: green; } .record { flex: 2; margin-left: 24px; background-color:#ffbc00; border:5px solid #5f6d7a; height:120px; border-radius:50%; max-width:120px; cursor: pointer; } .record-small { flex: 2; margin-left: 24px; background-color:#ffbc00; border:5px solid #5f6d7a; height:60px; border-radius:50%; max-width:60px; cursor: pointer; }  Should recreational marijuana be legalized?  
   
 In the wake of FBI Director James Comey&amp;rsquo;s firing, should Congress appoint someone independent to investigate alleged ties between Russia and the Trump administration?</description>
@@ -91,65 +91,65 @@ In the wake of FBI Director James Comey&amp;rsquo;s firing, should Congress appo
     
     <item>
       <title>Demo: Mixdown</title>
-      <link>/docs/mixdown/</link>
+      <link>https://adamehirsch.github.io/afg/docs/mixdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/mixdown/</guid>
+      <guid>https://adamehirsch.github.io/afg/docs/mixdown/</guid>
       <description>.section-head:after { content: &#39;&#39;; } ul.checklist { padding: 20px; background: rgba(143, 188, 143, 0.50); border-radius: 6px; list-style: none;&#34; } ul.checklist li:before { content: &#39;✓&#39;; }  Here&#39;s a whole conversation, as combined for our demo.  </description>
     </item>
     
     <item>
       <title>Messages</title>
-      <link>/blog/messages/</link>
+      <link>https://adamehirsch.github.io/afg/blog/messages/</link>
       <pubDate>Mon, 10 Apr 2017 16:41:34 +0100</pubDate>
       
-      <guid>/blog/messages/</guid>
+      <guid>https://adamehirsch.github.io/afg/blog/messages/</guid>
       <description>Usage You have 2 modules waiting to installation. Install   &amp;lt;div class=&amp;ldquo;message&amp;rdquo; data-component=&amp;ldquo;message&amp;rdquo;&amp;gt; &amp;hellip; &amp;lt;span class=&amp;ldquo;close small&amp;rdquo;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;  You have 2 modules waiting to installation. Install   &amp;lt;div class=&amp;ldquo;message error&amp;rdquo; data-component=&amp;ldquo;message&amp;rdquo;&amp;gt; &amp;hellip; &amp;lt;span class=&amp;ldquo;close small&amp;rdquo;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;  You have 2 modules waiting to installation. Install   &amp;lt;div class=&amp;ldquo;message success&amp;rdquo; data-component=&amp;ldquo;message&amp;rdquo;&amp;gt; &amp;hellip; &amp;lt;span class=&amp;ldquo;close small&amp;rdquo;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;  Warning!You have 2 modules waiting to installation. Install   &amp;lt;div class=&amp;ldquo;message warning&amp;rdquo; data-component=&amp;ldquo;message&amp;rdquo;&amp;gt; &amp;lt;h5&amp;gt;&amp;hellip;&amp;lt;/h5&amp;gt; &amp;hellip; &amp;lt;span class=&amp;ldquo;close small&amp;rdquo;&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;/div&amp;gt;   You have 2 modules waiting to installation.</description>
     </item>
     
     <item>
       <title>Collapse</title>
-      <link>/blog/collapse/</link>
+      <link>https://adamehirsch.github.io/afg/blog/collapse/</link>
       <pubDate>Mon, 10 Apr 2017 16:42:50 +0100</pubDate>
       
-      <guid>/blog/collapse/</guid>
+      <guid>https://adamehirsch.github.io/afg/blog/collapse/</guid>
       <description>Base Item 1 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Inline 🐣Text Styles</title>
-      <link>/blog/inline-style/</link>
+      <link>https://adamehirsch.github.io/afg/blog/inline-style/</link>
       <pubDate>Sun, 02 Apr 2017 21:56:55 +0100</pubDate>
       
-      <guid>/blog/inline-style/</guid>
+      <guid>https://adamehirsch.github.io/afg/blog/inline-style/</guid>
       <description>Chocolate tiramisu pastry a link cotton candy sesame snaps. Dessert cake chocolate bar a bold part sugar plum bonbon marshmallow lollipop toffee soufflé. Donut caramels chocolate bar. Oat cake cookie a marked part cheesecake donut. Jelly-o  $code marzipan cake. Bonbon sesame snaps chocolate an italic part oat cake pudding sweet roll caramels bonbon. Soufflé muffin 👻 gummies sugar plum dessert bonbon bear claw. Sweet ice cream jujubes. Marzipan sugar plum pastry chocolate ⌘+A bar fruitcake.</description>
     </item>
     
     <item>
       <title>Company</title>
-      <link>/company/</link>
+      <link>https://adamehirsch.github.io/afg/company/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/company/</guid>
+      <guid>https://adamehirsch.github.io/afg/company/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Password Recovery</title>
-      <link>/password-recovery/</link>
+      <link>https://adamehirsch.github.io/afg/password-recovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/password-recovery/</guid>
+      <guid>https://adamehirsch.github.io/afg/password-recovery/</guid>
       <description>Your email    Send Back to Log In
  </description>
     </item>
     
     <item>
       <title>Sign In</title>
-      <link>/account/</link>
+      <link>https://adamehirsch.github.io/afg/account/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/account/</guid>
+      <guid>https://adamehirsch.github.io/afg/account/</guid>
       <description>Email   Password   Log in
 Forgot password?
 If you have any questions about authorization or you&#39;re our customer but haven&#39;t receive your login credentials, just send us a short email at support@wavelengthradio.com and we&#39;ll fix it right away.
