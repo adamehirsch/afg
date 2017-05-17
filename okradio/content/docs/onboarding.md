@@ -1,7 +1,7 @@
 +++
 title = "Onboarding Questions"
 description = "Much like a dating site, we ask users to establish a profile with a series of low-charge questions."
-weight = 2
+weight = 10
 draft = false
 toc = false
 bref = "Much like a dating site, we ask users to establish a profile with a series of low-charge questions."

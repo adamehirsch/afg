@@ -1,7 +1,7 @@
 +++
 title = "Welcome Page"
 description = "After a new user has signed on, they're presented with some of the Questions of the Day."
-weight = 1
+weight = 20
 draft = false
 toc = false
 bref = "After two users have answered a featured question differently, the system matches them and encourages them to respond"

@@ -12,6 +12,6 @@ Paginate = 4
   email = "myemail@myaddress.xxx"
 
 [[menu.main]]
-    name = "Slides"
+    name = "Demo Pages"
     weight = -100
     url = "/docs/"

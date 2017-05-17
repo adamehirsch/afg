@@ -1,7 +1,7 @@
 +++
 title = "Conversation Guidelines"
 description = "Guiding people through potentially difficult conversations."
-weight = 3
+weight = 15
 draft = false
 toc = false
 bref = "Guiding people through potentially difficult conversations."

@@ -1,7 +1,7 @@
 +++
 title = "Your Dashboard"
 description = "When a user comes back to the site, they'll see a page of questions, conversation starters and prompts to contribute their own questions."
-weight = 10
+weight = 35
 draft = false
 toc = false
 bref = ""
