@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Wavelength</title>
+    <link>/docs/</link>
+    <description>Recent content in Docs on Wavelength</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Onboarding Questions</title>
+      <link>/docs/onboarding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/onboarding/</guid>
+      <description>.section-head:after { content: &#39;&#39;; } ul.checklist { padding: 20px; background: rgba(143, 188, 143, 0.50); border-radius: 6px; list-style: none;&#34; } ul.checklist li:before { content: &#39;✓&#39;; }  Onboarding questions  I am a _____ (age) _______ (gender) in ___________. And I love _________? What do you love about ______{topic}? If you won $10,000, what&#39;s the first thing you would spend money on? Do you say pop or soda? Manhattan clam chowder or New England clam chowder?</description>
+    </item>
+    
+    <item>
+      <title>Conversation Guidelines</title>
+      <link>/docs/listening-guides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/listening-guides/</guid>
+      <description>.section-head:after { content: &#39;&#39;; } ul.checklist { padding: 20px; background: rgba(143, 188, 143, 0.50); border-radius: 6px; list-style: none;&#34; } ul.checklist li:before { content: &#39;✓&#39;; }  A guide to more fully engaged conversations  Wait: Let the other person speak fully before asking questions. Try not to formulate a response before they finish. Assume positive intentions: Assume that the other person has good intentions. Use “I” statements: Use &#34;I&#34; statements to keep the discussion based on your personal experience, rather than pointing fingers.</description>
+    </item>
+    
+    <item>
+      <title>Welcome Page</title>
+      <link>/docs/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/welcome/</guid>
+      <description>.section-head:after { content: &#39;&#39;; } ul.checklist { padding: 20px; background: rgba(143, 188, 143, 0.50); border-radius: 6px; list-style: none;&#34; } ul.checklist li:before { content: &#39;✓&#39;; }  Questions of the Day   Should recreational marijuana be legalized? [RESPOND / RECORD BUTTON]  Are young people better off than previous generations because of the Internet? [RESPOND / RECORD BUTTON]  Should hospitals be allowed to force employees to get flu shots? [RESPOND / RECORD BUTTON]  Record a response:</description>
+    </item>
+    
+    <item>
+      <title>Initial Match</title>
+      <link>/docs/match1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/match1/</guid>
+      <description>.section-head:after { content: &#39;&#39;; } ul.checklist { padding: 20px; background: rgba(143, 188, 143, 0.50); border-radius: 6px; list-style: none;&#34; } ul.checklist li:before { content: &#39;✓&#39;; }  Andrew, you have a match! Sandi agrees with you on a lot of things:
+ a hot dog is a sandwich   You both consider yourselves &#34;observant&#34;   You call yourselves &#34;news junkie&#34;  You both call carbonated beverages &#34;soda&#34;  But: You disagree about the following: Are young people today better off because of the internet, or worse?</description>
+    </item>
+    
+    <item>
+      <title>Your Dashboard</title>
+      <link>/docs/dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/dashboard/</guid>
+      <description>Questions of the Day:  input[type=range]:before { content: &#39;No Way!&#39;; color: #ff3366; } input[type=range]:after { content: &#39;Absolutely!&#39;; color: green; } .record { flex: 2; margin-left: 24px; background-color:#ffbc00; border:5px solid #5f6d7a; height:120px; border-radius:50%; max-width:120px; cursor: pointer; } .record-small { flex: 2; margin-left: 24px; background-color:#ffbc00; border:5px solid #5f6d7a; height:60px; border-radius:50%; max-width:60px; cursor: pointer; }  Should recreational marijuana be legalized?  
+  
+In the wake of FBI Director James Comey&amp;rsquo;s firing, should Congress appoint someone independent to investigate alleged ties between Russia and the Trump administration?</description>
+    </item>
+    
+    <item>
+      <title>Demo: Mixdown</title>
+      <link>/docs/mixdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/mixdown/</guid>
+      <description>.section-head:after { content: &#39;&#39;; } ul.checklist { padding: 20px; background: rgba(143, 188, 143, 0.50); border-radius: 6px; list-style: none;&#34; } ul.checklist li:before { content: &#39;✓&#39;; }  Here&#39;s a whole conversation, as combined for our demo.  </description>
+    </item>
+    
+  </channel>
+</rss>
